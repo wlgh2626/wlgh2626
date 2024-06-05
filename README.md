@@ -5,17 +5,17 @@
 ## Projects
 
 ### [PhotoMosaic](https://github.com/wlgh2626/PhotoMosaic)
-![PhotoMosaic](https://github.com/wlgh2626/wlgh2626/raw/main/Duck.png)
+<img src="https://github.com/wlgh2626/wlgh2626/raw/main/Duck.png" alt="mosaic_showcase" width="200"/>
 
 Generates a target image based off of other images
 
 ### [chip8_project](https://github.com/kyirong6/chip8_project)
-![chip8_project](https://github.com/wlgh2626/wlgh2626/raw/main/blinky.png)
+<img src="https://github.com/wlgh2626/wlgh2626/raw/main/blinky.png" alt="Chip8_showcase" width="200"/>
 
 Emulates and runs any Chip8 games
 
 ### [Game Engine](https://github.com/wlgh2626/game-engine)
-![Game Engine](https://github.com/wlgh2626/wlgh2626/raw/main/text.png)
+<img src="https://github.com/wlgh2626/wlgh2626/raw/main/text.png" alt="AST_showcase" width="200"/>
 
 Interprets and enforces game rules with Abstract Syntax Tree
 
