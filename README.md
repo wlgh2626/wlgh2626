@@ -4,12 +4,12 @@
 
 <br>
 
+## Tools & Technologies
+
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript)
-
----
 
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
