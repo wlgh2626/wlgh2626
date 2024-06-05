@@ -1,17 +1,11 @@
-### Jiho Shin
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jihosh@hotmail.com)
-<br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
+# Jiho Shin [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Jihosh@hotmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
 
 <br>
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
-<br>
-
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript)
+---
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
